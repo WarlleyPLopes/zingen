@@ -32,7 +32,7 @@ a.social {
     }
   }
 
-  &[aria-label="twitter"] {
+  &[aria-label="x"] {
     --bg-img: url(../assets/icons/x.svg);
 
     &:hover {
